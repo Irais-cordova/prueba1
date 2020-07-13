@@ -1,0 +1,11 @@
+#para ignorar archivos de la carpeta .vscode
+/**/.vscode/
+
+#ignorar todos los ejecutables
+*.exe
+
+#ignorar archivo algo.x
+algo.x
+
+#aqui oculto la carpeta oculta
+/**/oculta/
